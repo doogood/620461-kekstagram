@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Екатерина Шмыголь](https://up.htmlacademy.ru/javascript/14/user/620461).
-* Наставник: `Неизвестно`.
+* Наставник: [Варя Степанова](https://htmlacademy.ru/profile/id148462).
 
 ---
 
